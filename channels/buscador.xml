@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <id>buscador</id>
+    <name>Buscador global</name>
+    <language>es</language>
+    <update_url></update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</version>
+    <date>28/08/2015</date>
+    <changes>Fixa i canali guasti o disabilitati. Include il nome del canare nella ricerca globale (grazie a Raul)</changes>
+</channel>
